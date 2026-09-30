@@ -12,6 +12,8 @@ Actuellement, le dataset prend en compte des librairies classiques et bien docum
  * Tera
  * Clap
  * Ratatui
-🔮 Orientations futures
+
+
+## 🔮 Orientations futures ##
  * 📚 Intégration d'un plus grand nombre de librairies
  * ⚡ Restructuration du jeu de données pour en accroître les effets sur le temps de production des réponses en mode agentique
