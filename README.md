@@ -17,3 +17,6 @@ Actuellement, le dataset prend en compte des librairies classiques et bien docum
 ## 🔮 Orientations futures ##
  * 📚 Intégration d'un plus grand nombre de librairies
  * ⚡ Restructuration du jeu de données pour en accroître les effets sur le temps de production des réponses en mode agentique
+
+## Avertissement et disponibilité ##
+Cet ensemble de données est sous licence open source, mais le code du modèle n'est pas disponible pour des raisons de confidentialité. Cependant, si vous avez des questions avant de l'utiliser, vous pouvez me contacter sur LinkedIn (https://www.linkedin.com/in/damienstrullu/). Cet ensemble de données n'est pas disponible à des fins commerciales et aucune garantie n'est offerte pour une telle utilisation. Si vous utilisez cet ensemble de données, merci de le mentionner dans vos travaux.
